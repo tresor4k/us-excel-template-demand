@@ -58,6 +58,11 @@ Team while building an open catalog of downloadable spreadsheet templates.
   largest demand category
 - [Bookkeeping & accounting templates](https://tabletemplates.com/bookkeeping-accounting/) —
   the highest demand-density category
+- [PTO tracking software](https://tabletemplates.com/pto-tracking-software/) — the hosted
+  tracker for the leave rows of the `hr-schedule-payroll` category (`pto tracker excel`,
+  `vacation tracker excel`, `pto accrual calculator excel template`, `leave tracker excel template`)
+- [Certified payroll software](https://tabletemplates.com/certified-payroll-software/) — the
+  hosted WH-347-style report for the `wh-347 form excel download` row (`construction-field` category)
 
 ## Provenance & method
 
